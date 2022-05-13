@@ -1,4 +1,4 @@
-# MAT170Q-Prob-and-Stats
+# R Projects
 
 Projects done in R 
 - showcases ability in statistics
